@@ -19,7 +19,7 @@ window.onload=function(){
 	bt_right.onclick=function(){
 		changeBlue();
 	}
-	timer=setTimeout(bannerChange,3000);
+	//timer=setTimeout(bannerChange,3000);
 
 }
 
